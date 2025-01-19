@@ -44,6 +44,8 @@ The objectives for analyzing patient reviews of medicines include understanding 
 
 ## Techniques/Libraries:
 
+**Python** (For Programming)
+
 **pandas**
 
 **sklearn**
