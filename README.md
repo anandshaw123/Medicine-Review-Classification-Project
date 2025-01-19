@@ -69,15 +69,15 @@ The objectives for analyzing patient reviews of medicines include understanding 
 
 ## ***Recommendation***
 
-Effectiveness Insights: Identifying which medicines are most effective based on patient feedback and highlighting those that need improvement.
+***Effectiveness Insights:*** Identifying which medicines are most effective based on patient feedback and highlighting those that need improvement.
 
-Common Issues: Recommending areas for improvement, such as addressing frequently reported side effects or enhancing the formulation for better outcomes.
+***Common Issues:*** Recommending areas for improvement, such as addressing frequently reported side effects or enhancing the formulation for better outcomes.
 
-Product Development: Suggesting new combinations or enhancements to existing medicines based on patterns and trends identified in the reviews.
+***Product Development:*** Suggesting new combinations or enhancements to existing medicines based on patterns and trends identified in the reviews.
 
-Patient Engagement: Encouraging pharmaceutical companies to incorporate feedback loops where patients feel heard, improving trust and satisfaction.
+***Patient Engagement:*** Encouraging pharmaceutical companies to incorporate feedback loops where patients feel heard, improving trust and satisfaction.
 
-Market Strategy: Advising on targeted improvements or new product launches to gain a competitive advantage in the market.
+***Market Strategy:*** Advising on targeted improvements or new product launches to gain a competitive advantage in the market.
 
 
 
