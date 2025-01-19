@@ -8,3 +8,29 @@
 
 
 ## ***The Tasks involved in this project include:***
+
+
+
+## Libraries:
+
+**pandas**
+
+**sklearn**
+
+**xgboost**
+
+**nltk**
+
+**TfidfVectorizer**
+
+**regex**
+
+**string**
+
+**warnings**
+
+
+
+
+
+## **Libraries:**
