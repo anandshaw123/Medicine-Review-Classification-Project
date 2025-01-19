@@ -9,6 +9,26 @@
 
 ## ***The Tasks involved in this project include:***
 
+**Data Cleaning**
+
+**removing the punctuation**
+
+**removing stopwords**
+
+**Maping The Label**
+
+**TF-IDF (Term Frequency-Inverse Document Frequency)** ****converts text documents into numerical vectors using TF-IDF.****
+
+**train_test_split**
+
+**model training**
+
+**Fit and evaluate the model**
+
+**hyperparameter tuning**
+
+**Calculate feature importance**
+
 
 
 ## Libraries:
@@ -28,9 +48,3 @@
 **string**
 
 **warnings**
-
-
-
-
-
-## **Libraries:**
