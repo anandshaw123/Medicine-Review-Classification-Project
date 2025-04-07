@@ -2,6 +2,12 @@
 
 
 
+
+![Medicine Review Classification](https://github.com/user-attachments/assets/832d9902-13bf-4db3-8e91-87bcefeaede0)
+
+
+
+
 ## ***Problem***:
 
 **To analyze patient reviews of medicines to evaluate their effectiveness and identify areas for improvement, helping pharmaceutical companies enhance their products and develop better combinations.**
