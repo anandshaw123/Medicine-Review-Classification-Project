@@ -26,6 +26,8 @@ The objectives for analyzing patient reviews of medicines include understanding 
 
 ## ***The Tasks involved in this project include:***
 
+ - **Data Collection - APIs**
+
  - **Data Cleaning**
 
  - **removing the punctuation**
